@@ -6,5 +6,5 @@ Navigation Options
 
 ### Fixed
 
-### Removed
+## Removed
 A hero image on index page
