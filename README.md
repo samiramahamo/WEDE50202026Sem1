@@ -2,7 +2,7 @@
 First Year Web Development Project Rosebank International
 
 ## Project Title
-Warm Hearts 
+Warm Hearts Community
 
 ###
 A company Website that is responsive
