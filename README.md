@@ -7,7 +7,7 @@ Warm Hearts Community
 ###
 A company Website that is responsive
 
-## 🛠️ Built With
+##Built With
 HTML - Structure
 CSS - Styling of pages
 Javascript - functionality
