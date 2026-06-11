@@ -1,11 +1,12 @@
-### Added
+## Added
 An interactive map
 Light box gallery
 
-### Changed
+## Changed
 Navigation Options
+Added more images
 
-### Fixed
+## Fixed
 
 ## Removed
 A hero image on index page
